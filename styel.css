@@ -1,0 +1,49 @@
+body {
+    background: white;
+}
+
+.d {
+    color: tomato;
+    background: rgb(11, 224, 224);
+    text-align: center;
+}
+
+.e {
+    color: brown;
+    background: rgb(84, 2, 236);
+    text-align: center;
+}
+
+.f {
+    color: rgb(192, 241, 14);
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 15px;
+}
+
+.g {
+    color: royalblue;
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+    text-decoration: none;
+    line-height: 30px;
+    word-spacing: 10px;
+}
+
+.h {
+    color: red;
+    text-align: justify;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: none;
+    line-height: 20px;
+    word-spacing: 12px;
+}
+
+.foot {
+    float: right;
+}
